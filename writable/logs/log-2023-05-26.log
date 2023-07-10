@@ -1,0 +1,916 @@
+INFO - 2023-05-26 12:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:12:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:17:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:18:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:18:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:27:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:27:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:28:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-26 12:29:18 --> syntax error, unexpected token ";"
+in APPPATH\Views\usuario\Footer.php on line 4.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/Footer', [], true)
+ 3 APPPATH\Controllers\UsuarioController.php(108): view('usuario/Footer')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->acerca()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 12:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:41:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:42:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:46:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 12:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:06:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:06:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:11:06 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:11:06 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:12:00 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:12:00 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:12:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:12:29 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:12:29 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:12:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:13:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:13:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:17:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:17:17 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:17:17 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:21:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:21:06 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:21:06 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:27:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:27:38 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:27:38 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:28:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:40:16 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:40:16 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:41:56 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:41:56 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-26 13:49:01 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:49:01 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:49:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:53:24 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:53:24 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:53:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:54:32 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:54:32 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:55:05 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:55:05 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:57:32 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:57:32 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 13:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 13:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 13:58:39 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 13:58:39 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:00:46 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:00:46 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:02:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:02:54 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:02:54 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-26 14:04:40 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:04:40 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:04:58 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:04:58 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-26 14:07:05 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:07:05 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:07:15 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:07:15 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:08:16 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:08:16 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:09:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:09:29 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:09:29 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:09:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:10:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:10:45 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:10:45 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(78): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:26:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:28:54 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:28:54 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-05-26 14:28:54 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:28:54 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:30:59 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:30:59 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:35:28 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:35:28 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:37:23 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:37:23 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:38:24 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:38:24 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:40:20 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:40:20 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 14:43:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:43:38 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:43:38 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:43:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-05-26 14:43:50 --> mysqli_sql_exception: Duplicate entry '' for key 'Email' in C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\Lucy\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `Pe...', 0)
+#1 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `Pe...')
+#2 C:\xampp\htdocs\Lucy\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `Pe...')
+#3 C:\xampp\htdocs\Lucy\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Pe...', Array, false)
+#4 C:\xampp\htdocs\Lucy\app\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\Lucy\app\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar(Array)
+#6 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+#7 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+#8 C:\xampp\htdocs\Lucy\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\Lucy\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-05-26 14:43:50 --> Duplicate entry '' for key 'Email'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `Persona` (`Nombre`, `Numero`, `Email`, `Contra`, `tipoUsuario`) VALUES (:Nombre:, :Numero:, :Email:, :Contra:, :tipoUsuario:)', [...], false)
+ 2 APPPATH\Models\ModeloPerso.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\CrudController.php(80): App\Models\ModeloPerso->insertar([...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\CrudController->crear()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CrudController))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-26 14:43:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:06:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:06:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:07:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:34:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 15:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:29:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:30:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-05-26 17:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

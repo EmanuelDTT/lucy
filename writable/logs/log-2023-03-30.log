@@ -1,0 +1,426 @@
+CRITICAL - 2023-03-30 20:20:26 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:20:45 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:20:52 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:21:18 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:21:19 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:22:20 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:22:22 --> Call to undefined function Config\get()
+in APPPATH\Config\Routes.php on line 41.
+ 1 SYSTEMPATH\Router\RouteCollection.php(267): require()
+ 2 SYSTEMPATH\CodeIgniter.php(802): CodeIgniter\Router\RouteCollection->loadRoutes()
+ 3 SYSTEMPATH\CodeIgniter.php(449): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 20:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:22:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 20:23:18 --> Undefined property: stdClass::$nombre
+in APPPATH\Views\usuario\formulario.php on line 96.
+ 1 APPPATH\Views\usuario\formulario.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nombre', 'APPPATH\\Views\\usuario\\formulario.php', 96)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/formulario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(25): view('usuario/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->formulario()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 20:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 20:23:26 --> Undefined property: stdClass::$Nmail
+in APPPATH\Views\usuario\formulario.php on line 98.
+ 1 APPPATH\Views\usuario\formulario.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$Nmail', 'APPPATH\\Views\\usuario\\formulario.php', 98)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/formulario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(25): view('usuario/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->formulario()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 20:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 20:23:28 --> Undefined property: stdClass::$Nmail
+in APPPATH\Views\usuario\formulario.php on line 98.
+ 1 APPPATH\Views\usuario\formulario.php(98): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$Nmail', 'APPPATH\\Views\\usuario\\formulario.php', 98)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/formulario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(25): view('usuario/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->formulario()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 20:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:25:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 20:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 20:25:57 --> Undefined variable $datos
+in APPPATH\Views\usuario\admin.php on line 30.
+ 1 APPPATH\Views\usuario\admin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\usuario\\admin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/admin', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(59): view('usuario/admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:27:47 --> include(ModeloPerso): Failed to open stream: No such file or directory
+in APPPATH\Views\usuario\admin.php on line 1.
+ 1 APPPATH\Views\usuario\admin.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(ModeloPerso): Failed to open stream: No such file or directory', 'APPPATH\\Views\\usuario\\admin.php', 1)
+ 2 APPPATH\Views\usuario\admin.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\admin.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/admin', [], true)
+ 6 APPPATH\Controllers\UsuarioController.php(59): view('usuario/admin')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:27:58 --> include(Models/ModeloPerso): Failed to open stream: No such file or directory
+in APPPATH\Views\usuario\admin.php on line 1.
+ 1 APPPATH\Views\usuario\admin.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(Models/ModeloPerso): Failed to open stream: No such file or directory', 'APPPATH\\Views\\usuario\\admin.php', 1)
+ 2 APPPATH\Views\usuario\admin.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\admin.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/admin', [], true)
+ 6 APPPATH\Controllers\UsuarioController.php(59): view('usuario/admin')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:28:07 --> include(formulario): Failed to open stream: No such file or directory
+in APPPATH\Views\usuario\admin.php on line 1.
+ 1 APPPATH\Views\usuario\admin.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(formulario): Failed to open stream: No such file or directory', 'APPPATH\\Views\\usuario\\admin.php', 1)
+ 2 APPPATH\Views\usuario\admin.php(1): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\admin.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/admin', [], true)
+ 6 APPPATH\Controllers\UsuarioController.php(59): view('usuario/admin')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:28:12 --> Undefined variable $mensaje
+in APPPATH\Views\usuario\formulario.php on line 81.
+ 1 APPPATH\Views\usuario\formulario.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $mensaje', 'APPPATH\\Views\\usuario\\formulario.php', 81)
+ 2 APPPATH\Views\usuario\admin.php(1): include('APPPATH\\Views\\usuario\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\admin.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/admin', [], true)
+ 6 APPPATH\Controllers\UsuarioController.php(59): view('usuario/admin')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:29:41 --> Undefined variable $datos
+in APPPATH\Views\usuario\admin.php on line 30.
+ 1 APPPATH\Views\usuario\admin.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'APPPATH\\Views\\usuario\\admin.php', 30)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\admin.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/admin', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(59): view('usuario/admin')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:32:53 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 56.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:39:06 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 59.
+ 1 APPPATH\Controllers\UsuarioController.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:40:59 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:01 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:01 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:01 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:01 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:02 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:02 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:41:32 --> Undefined property: App\Controllers\UsuarioController::$modelUser
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$modelUser', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:46:07 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:08 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:09 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:09 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:09 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:09 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:10 --> Undefined property: App\Controllers\UsuarioController::$ModeloPerso
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModeloPerso', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:56:50 --> Object of class App\Models\ModeloPerso could not be converted to string
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:58:24 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\UsuarioController.php on line 64.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\UsuarioController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UsuarioController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UsuarioController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UsuarioController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:58:25 --> syntax error, unexpected token "echo"
+in APPPATH\Controllers\UsuarioController.php on line 64.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\UsuarioController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UsuarioController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UsuarioController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UsuarioController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:58:33 --> Undefined variable $dato
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 APPPATH\Controllers\UsuarioController.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dato', 'APPPATH\\Controllers\\UsuarioController.php', 61)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:58:43 --> Undefined array key "nombre"
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nombre"', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:59:05 --> Undefined array key "Nombre"
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Nombre"', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:59:06 --> Undefined array key "Nombre"
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Nombre"', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:59:07 --> Undefined array key "Nombre"
+in APPPATH\Controllers\UsuarioController.php on line 60.
+ 1 APPPATH\Controllers\UsuarioController.php(60): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Nombre"', 'APPPATH\\Controllers\\UsuarioController.php', 60)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:59:20 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 57.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:59:33 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 20:59:34 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:00:09 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:00:10 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:00:10 --> Too few arguments to function App\Controllers\UsuarioController::admin(), 0 passed in C:\xampp\htdocs\Lucy\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\UsuarioController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:00:20 --> Undefined variable $dato
+in APPPATH\Controllers\UsuarioController.php on line 63.
+ 1 APPPATH\Controllers\UsuarioController.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $dato', 'APPPATH\\Controllers\\UsuarioController.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:00:43 --> syntax error, unexpected token "->", expecting identifier or variable or "{" or "$"
+in APPPATH\Controllers\UsuarioController.php on line 61.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\UsuarioController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UsuarioController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UsuarioController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UsuarioController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:00:53 --> syntax error, unexpected token "->", expecting identifier or variable or "{" or "$"
+in APPPATH\Controllers\UsuarioController.php on line 62.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\UsuarioController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\UsuarioController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\UsuarioController')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\UsuarioController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-30 21:01:21 --> Undefined property: App\Controllers\UsuarioController::$ModelPerso
+in APPPATH\Controllers\UsuarioController.php on line 62.
+ 1 APPPATH\Controllers\UsuarioController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\UsuarioController::$ModelPerso', 'APPPATH\\Controllers\\UsuarioController.php', 62)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->admin()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 21:02:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 21:03:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 21:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-30 21:03:47 --> Undefined property: stdClass::$nombre
+in APPPATH\Views\usuario\formulario.php on line 96.
+ 1 APPPATH\Views\usuario\formulario.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$nombre', 'APPPATH\\Views\\usuario\\formulario.php', 96)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\usuario\\formulario.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('usuario/formulario', [], true)
+ 5 APPPATH\Controllers\UsuarioController.php(27): view('usuario/formulario', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\UsuarioController->formulario()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UsuarioController))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-30 21:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 21:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 21:05:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-30 21:05:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

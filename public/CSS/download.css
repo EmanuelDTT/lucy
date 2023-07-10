@@ -1,0 +1,45 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+.logo {
+  width: 3rem;
+}
+.footer--bgc{
+  background-color: #eaeaea;
+}
+.main--bgc{
+  background-color: #f0f0f0;
+}
+img{
+  width: 50px!important;
+}
+.card--windows{
+  padding-top: 4rem!important;
+  
+}
+
+
+.container--title{
+  max-width: 768px;
+}
+@media (min-width: 768px){
+  .w-md-100{
+      width: 100%!important;
+  }
+}
+@media (min-width: 992px) {
+  .nav-link::after {
+      content: '';
+      display: block;
+      width: 0;
+      height: 2px;
+      background: #6e6e71;
+      margin: 0 auto;
+      -webkit-transition: width .1s;
+      transition: width .1s;
+  }
+
+  .nav-link:hover::after {
+      width: 40%;
+  }
+}
