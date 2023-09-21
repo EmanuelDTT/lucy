@@ -112,7 +112,7 @@
             configura las preferencias según tus necesidades. Lucy se adapta a ti.</p>
       
           <div class="tags">
-            <div class="tag">HTML</div>
+           
           </div>
         </div>
       </a>
@@ -126,7 +126,7 @@
              rápidas y precisas para tus consultas en tiempo real.</p>
          
           <div class="tags">
-            <div class="tag">HTML</div>
+        
           </div>
         </div>
       </a>
@@ -140,7 +140,7 @@
              su voz preferida y configura las preferencias de asistencia para adaptarla a tus necesidades.</p>
        
           <div class="tags">
-            <div class="tag">HTML</div>
+         
           </div>
         </div>
       </a>

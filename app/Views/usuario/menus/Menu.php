@@ -9,7 +9,6 @@
           <ul class="links-ul ">
                <li> <a href="<?php echo base_url(); ?>inicio">Inicio </a> </li>
                <li> <a href="<?php echo base_url(); ?>acerca">Acerca </a> </li> 
-               <li> <a href="<?php echo base_url(); ?>desarrollo">Desarrollo </a> </li>
                <li> <a href="<?php echo base_url(); ?>servicios">Servicio </a> </li>
                
                <li> <a href="<?php echo base_url(); ?>formulario" class="ri-user-line">Login</a> </li>

@@ -13,58 +13,6 @@
 </head>
 
 <body>
-    <!-- seccion de servicios -->
-    <!-- <section class="servicios">
-        <!-- <div class="containerser">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>Nuestros servicios</h3>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="item">
-        <div class="container" >
-            <div id="conta">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="item_servicios">
-                        <img src="IMG/apoyo-tecnico.png" alt="Soporte" height="50px" width="50px">
-                        <h4 class="h4"> Soporte Tecnico </h4>
-                        <p class="parra"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto nam deleniti quisquam. Cumque corrupti
-
-                        </p>
-                        <a class="link" href="">Leer más...</a>
-                    </div>
-            </div>
-
-                <div class="col-lg-4">
-                    <div class="item_servicios">
-                        <img src="IMG/cliente.png" alt="Soporte" height="50px" width="50px">
-                        <h4 class="h4"> Asesoria </h4>
-                        <p class="parra"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto nam deleniti quisquam. Cumque corrupti
-
-                        </p>
-                        <a class="link" href="">Leer más...</a>
-                    </div>
-                </div>
-
-                <div class="col-lg-4">
-                    <div class="item_servicios">
-                        <img src="IMG/habilidades.png" alt="Soporte" height="50px" width="50px">
-                        <h4 class="h4"> Integración </h4>
-                        <p class="parra"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto nam deleniti quisquam. Cumque corrupti
-
-                        </p>
-                        <a class="link" href="">Leer más...</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- </section> --> 
     <div class="our-service-sass hide-pr show-pr">
 				<div class="container">
 					<div class="theme-title-one text-center">

@@ -110,26 +110,7 @@
 
    
 
-        public function desarrollo(){
-        
-            $tipoUsuario= session('tipoUsuario');
-             
-    
-                 if($tipoUsuario==null){
-                    echo view ('usuario/menus/Menu');
-                 }
-    
-                if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
-                    echo view ('usuario/menus/MenuAd');
-                }
-                 if($tipoUsuario=='Usuario'){   
-                    echo view ('usuario/menus/MenuUs');
-                }
-              
-                echo view ('usuario/desarrollo');
-        
-            }
-      
+       
             public function error(){
                  
             $tipoUsuario= session('tipoUsuario');
