@@ -25,7 +25,7 @@ class CrudController extends BaseController
             "numero" => $_POST['numero'],
             "Email" => $_POST['email'],
             "Contra" => $_POST['Contra'],
-            "tipoUsuario" => $_POST["usuario"]
+            "tipoUsuario" => $_POST['tipo_usuario']
         ];
         $idNombre = $_POST['IdPersona'];
         $crud = new ModeloPerso();

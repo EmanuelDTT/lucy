@@ -27,7 +27,7 @@ $tipoUsuario= $datos[0] ['tipoUsuario'];
     </div>
     <div class="contacto">
       <h3 class="htree">Enviar Correo</h3>
-      <form class="formulario" method="POST" action="<?php echo base_url('editar') ?>">
+      <form class="formulario" id="formAC" method="POST" action="<?php echo base_url('editar') ?>">
         <p>
 
           <label>Id</label>
@@ -36,30 +36,39 @@ $tipoUsuario= $datos[0] ['tipoUsuario'];
 
         <p>
           <label>Nombre</label>
-          <input type="text" name="nombre" value="<?php echo $nombre ?>" required>
+          <input type="text" name="nombre" id="nombree" value="<?php echo $nombre ?>" required>
         </p>
         <p>
           <label>Teléfono</label>
-          <input type="text" name="numero" value="<?php echo $numero ?>" required>
+          <input type="text" name="numero" id="number"value="<?php echo $numero ?>" required>
         </p>
         <p>
           <label>Correo</label>
-          <input type="email" name="email" value="<?php echo $email ?>" required>
+          <input type="email" name="email" id="e-mail" value="<?php echo $email ?>" required>
         </p>
+        
         <p>
-          <label>Tipo de Usuario</label>
-          <input type="text" name="usuario" value="<?php echo $tipoUsuario ?>" required>
-        </p>
+        <label>Tipo de Usuario</label>
+          <select class="form-control"  name="tipo_usuario" <?php if(session('tipoUsuario')!='Admin' and session('tipoUsuario')!='admin' ) echo "readonly" ?> >
+              <option value="Usuario" <?php if($tipoUsuario=='Usuario') echo 'selected' ?> >Usuario</option>
+              <option value="Admin" <?php if($tipoUsuario=='Admin') echo 'selected' ?> >Admin</option>
+
+
+          </select>
+          </p>
+        
         <p>
 
           <label>Contraseña</label>
-          <input type="text" name="Contra" value="<?php echo $contra ?>">
+          <input type="text" name="Contra"  id ="Contra" value="<?php echo $contra ?>">
         </p>
 
         <p class="full">
-          <button class="boton-enviar">actualizar</button>
+          <button class="boton-enviar" id="actu" >actualizar</button>
         </p>
       </form>
     </div>
   </div>
 </div>
+
+<script src=" <?= base_url('./JS/validarAC.js'); ?>"></script>

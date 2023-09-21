@@ -19,6 +19,7 @@
   font-size: 15px;
   line-height: 24px;
   color: #ffffff;
+  position: absolute;
 }
 .site-footer hr {
   border-top-color: #bbb;
@@ -47,7 +48,7 @@
 }
 .footer-links li {
   display: block;
-  z-index: 2;
+  z-index: 7;
 }
 .footer-links a {
   color: #737373;

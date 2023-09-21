@@ -104,7 +104,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 	<script src=" <?= base_url('./JS/validacion.js'); ?>"></script>
-	<script src=" <?= base_url('./JS/contra.js'); ?>"></script>
+
 	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 
@@ -126,6 +126,9 @@
 			swal('Eliminado', 'Se ha eliminado con exito!', 'succes');
 		} else if (mensaje == '5') {
 			swal('Error', 'Hubo un fallo al eliminar!', 'error');
+		}
+		else if (mensaje == '6') {
+			swal('Error', 'Debe registrarse!', 'error');
 		}
 	</script>
 </body>

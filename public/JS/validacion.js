@@ -1,5 +1,6 @@
 
 var btn = document.getElementById('enviar');
+var btnAC= document.getElementById('actu');
 var existente = false;
 btn.disabled = true;
 
@@ -24,6 +25,7 @@ function habilitar (){
 const error= document.getElementById('error');
 const formulario = document.getElementById('formRe');
 const entrada = document.querySelectorAll('#formRe input');
+
 
 
 
@@ -152,6 +154,9 @@ $(document).ready(function () {
 		}
 
 	}
+
+	
+	
 
 	entrada.forEach((input)=>{
 		input.addEventListener('keyup',validar);

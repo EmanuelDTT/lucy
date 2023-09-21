@@ -11,14 +11,14 @@
              $tipoUsuario= session('tipoUsuario');
             
 
-             if($tipoUsuario==null){
+             if($tipoUsuario==''){
                 echo view ('usuario/menus/Menu');
              }
 
             if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
                 echo view ('usuario/menus/MenuAd');
             }
-             if($tipoUsuario=='usuario'){   
+             if($tipoUsuario=='Usuario'){   
                 echo view ('usuario/menus/MenuUs');
             }
 
@@ -39,7 +39,7 @@
            if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
                echo view ('usuario/menus/MenuAd');
            }
-            if($tipoUsuario=='usuario'){   
+            if($tipoUsuario=='Usuario'){   
                echo view ('usuario/menus/MenuUs');
            }
            
@@ -78,7 +78,7 @@
             if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
                 echo view ('usuario/menus/MenuAd');
             }
-             if($tipoUsuario=='usuario'){   
+             if($tipoUsuario=='Usuario'){   
                 echo view ('usuario/menus/MenuUs');
             }
             $data= ['titulo' => 'servicio'];
@@ -100,7 +100,7 @@
             if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
                 echo view ('usuario/menus/MenuAd');
             }
-             if($tipoUsuario=='usuario'){   
+             if($tipoUsuario=='Usuario'){   
                 echo view ('usuario/menus/MenuUs');
             }
           
@@ -122,12 +122,12 @@
                 if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
                     echo view ('usuario/menus/MenuAd');
                 }
-                 if($tipoUsuario=='usuario'){   
+                 if($tipoUsuario=='Usuario'){   
                     echo view ('usuario/menus/MenuUs');
                 }
               
                 echo view ('usuario/desarrollo');
-                echo view ('usuario/Footer');
+        
             }
       
             public function error(){
@@ -142,7 +142,7 @@
            if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
                echo view ('usuario/menus/MenuAd');
            }
-            if($tipoUsuario=='usuario'){   
+            if($tipoUsuario=='Usuario'){   
                echo view ('usuario/menus/MenuUs');
            }
                 
@@ -160,7 +160,7 @@
        if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
            echo view ('usuario/menus/MenuAd');
        }
-        if($tipoUsuario=='usuario'){   
+        if($tipoUsuario=='Usuario'){   
            echo view ('usuario/menus/MenuUs');
        }
        echo view ('usuario/contacto/fmContacto');
@@ -170,20 +170,28 @@
 
     public function download(){
         $tipoUsuario= session('tipoUsuario');
-           
-
-        if($tipoUsuario==null){
+        $mensaje= session('mensaje');
+        $data=[
+             
+             "mensaje"=>$mensaje
+        ];
+        if($tipoUsuario==''){
            echo view ('usuario/menus/Menu');
+           return redirect()->to(base_url('/formulario'))->with('mensaje', '6');
+           echo view ('usuario/Footer');
         }
 
        if($tipoUsuario=='Admin' or $tipoUsuario=='admin'){
            echo view ('usuario/menus/MenuAd');
+           echo view ('usuario/download');
+           echo view ('usuario/Footer');
        }
-        if($tipoUsuario=='usuario'){   
+        if($tipoUsuario=='Usuario'){   
            echo view ('usuario/menus/MenuUs');
+           echo view ('usuario/download');
+           echo view ('usuario/Footer');
        }
-       echo view ('usuario/download');
-       echo view ('usuario/Footer');
+     
     }
 
        
